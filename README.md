@@ -10,7 +10,7 @@ git clone https://github.com/chihhuiho/VISPE.git
 2. Initiate the conda environment
 ```
 conda env create -f environment.yml -n VISPE
-conda activate RSPE
+conda activate VISPE
 ```
 3. Download the Modelnet dataset.
 ```
