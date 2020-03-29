@@ -26,6 +26,17 @@ python main.py --load_pretrain --evaluate
 ```
 python main.py
 ```
+## Citation
+If you find this method useful in your research, please cite this article:
+```
+@InProceedings{Ho_2020_CVPR,
+author = {Ho, Chih-Hui and Liu, Bo and Wu, Tz-Ying and Vasconcelos, Nuno},
+title = {Exploit Clues from Views: Self-Supervised and Regularized Learning for Multiview Object Recognition},
+booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+month = {June},
+year = {2020}
+}
+```
 
 # Ackowledgement
 Please email to Chih-Hui (John) Ho (chh279@eng.ucsd.edu) if further issues are encountered.
