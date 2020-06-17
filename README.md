@@ -1,5 +1,5 @@
 # View Invariant Stochastic Prototype Embeddings (VISPE)
-Code for Exploit Clues from Views Self Supervised and Regularized Learning for 3D Object Recognition. This work is published in CVPR 2020
+Code for Exploit Clues from Views Self Supervised and Regularized Learning for 3D Object Recognition. This work is published in CVPR 2020. Please refer to the webpage (https://chihhuiho.github.io/vispe_web/) for more details. 
 
 # Usage
 ##  Evaluate pretrained model
